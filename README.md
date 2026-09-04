@@ -18,6 +18,10 @@ This is a C# WinForms `GradientPanel` (namespace `Owf.Controls`) with border, dr
 
 Open `Owf.Controls.GradientPanel.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2012, .NET Framework 2.0, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Third-party Owf.Controls / GradientPanel (One Windows Forms). From Dave Robinson's Historical Dev archive (OneDrive folder `Owf.Controls.A1Panel`). See THIRD_PARTY_NOTICES.md. This is not original VaderConsulting code.
