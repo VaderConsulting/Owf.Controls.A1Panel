@@ -2,6 +2,8 @@
 
 This is a C# WinForms `GradientPanel` (namespace `Owf.Controls`) with border, drop shadow, and rounded corners. A TestApp project exercises the control. Dave Robinson's Historical Dev copy of the One Windows Forms / Owf.Controls library, kept so the gradient panel used in other work can be opened from GitHub.
 
+Working copy from my Historical Dev folder.
+
 **Source last updated:** 2013-08-02  
 **Language:** C#  
 **Target:** WinForms control library  
