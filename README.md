@@ -1,6 +1,6 @@
 # Owf.Controls.A1Panel
 
-This is a C# WinForms `GradientPanel` (namespace `Owf.Controls`) with border, drop shadow, and rounded corners. A TestApp project exercises the control. Dave Robinson's Historical Dev copy of the One Windows Forms / Owf.Controls library, kept so the gradient panel used in other work can be opened from GitHub.
+This is a C# WinForms `GradientPanel` (namespace `Owf.Controls`) with border, drop shadow, and rounded corners. A TestApp project exercises the control. This is my Historical Dev copy of the One Windows Forms / Owf.Controls library, kept so the gradient panel used in other work can be opened from GitHub.
 
 Working copy from my Historical Dev folder.
 
@@ -26,7 +26,7 @@ Open `Owf.Controls.GradientPanel.sln` in Visual Studio.
 
 ## Attribution and provenance
 
-Third-party Owf.Controls / GradientPanel (One Windows Forms). From Dave Robinson's Historical Dev archive (OneDrive folder `Owf.Controls.A1Panel`). See THIRD_PARTY_NOTICES.md. This is not original VaderConsulting code.
+Third-party Owf.Controls / GradientPanel (One Windows Forms). From my Historical Dev archive (folder `Owf.Controls.A1Panel`). See THIRD_PARTY_NOTICES.md. This is not original VaderConsulting code.
 
 ## License
 
